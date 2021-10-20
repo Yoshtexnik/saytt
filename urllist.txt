@@ -1,0 +1,2 @@
+https://vkrdownloader.herokuapp.com
+https://vkrdownloader.herokuapp.com/contact/
